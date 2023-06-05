@@ -87,5 +87,6 @@ I'm always looking to collaborate on interesting projects or discuss web develop
 - [Twitter](https://twitter.com/Nuzair_)
 - [Portfolio](https://nuzair.netlify.app)
 - [Facebook](https://facebook.com)
+- [Instagram](https://instagram.com)
 
 Looking forward to connecting with you and exploring the exciting world of ReactJS together! 😄
