@@ -1,6 +1,6 @@
 # Hi there, I'm Nuzair Ibrahim 👋
 
-## Frontend Web Developer | ReactJS & NextJs | JavaScript Enthusiast | UI/UX Designer
+## Full Stack Web Developer | ReactJS & NextJs | JavaScript Enthusiast | UI/UX Designer
 
 Welcome to my GitHub profile! I'm passionate about creating beautiful and intuitive user interfaces using ReactJS & NextJS. I believe in the power of clean code and elegant design to create seamless user experiences.  
 
