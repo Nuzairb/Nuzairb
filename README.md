@@ -1,82 +1,104 @@
-# Hi there, I'm Nuzair Ibrahim 👋
+# Hi, I'm Nuzair Ibrahim
 
-## Full Stack Web Developer | ReactJS & NextJs | JavaScript Enthusiast | UI/UX Designer
+**Frontend & Design Engineer** — I build interfaces that feel inevitable: fast, correct, and beautiful.
 
-Welcome to my GitHub profile! I'm passionate about creating beautiful and intuitive user interfaces using ReactJS & NextJS. I believe in the power of clean code and elegant design to create seamless user experiences.  
+5+ years shipping production UIs across SaaS, fintech, EdTech, and Web3. I work at the intersection of engineering precision and design sensibility — owning everything from architecture to animation.
 
-🚀 Crafting dynamic web experiences with NextJs and ReactJs ✨  
-🌟 Passionate about front-end development and UI/UX design 💡  
-💻 Turning coffee into code and ideas into reality ☕️💻  
-🎨 Transforming pixels into stunning user interfaces 🎉  
-🌐 Building the future of the web, one line of code at a time 🌍  
-💡 Constantly learning, growing, and pushing the boundaries of web development 🔥  
-👨‍💻 Code architect by day, open-source contributor by night 🌙  
-📚 Sharing my knowledge and insights through blog posts and tech talks 📝🎙  
-💪 Let's collaborate, innovate, and build remarkable digital experiences together! 🤝✨  
+---
 
-## 🚀 Skills
+## What I work with
 
-- **Languages:**  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Core Stack**
 
-- **Frameworks/Libraries:**  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
-- **UI Libraries:**  
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
-  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+**Backend & Data**
 
-- **Tools:**  
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-black?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
-## 💼 Experience
+**Design & Motion**
 
-- **Orfinex Capital** - Frontend Web Developer *(Remote Job - Dubai, UAE)*  
-  - Developed responsive and user-friendly web applications using ReactJS and NextJs.
-  - Collaborated with the design team to implement pixel-perfect UI designs.
-  - Optimized website performance by improving code efficiency and implementing best practices.
-  - Worked on a team to develop and maintain ReactJS-based projects.
-  - Implemented new features and resolved bugs to improve overall user experience.
-  - Assisted in optimizing website performance and implementing UI/UX enhancements.
-  - Implemented responsive design principles and ensured cross-browser compatibility to deliver a consistent experience across devices and browsers.
-  - Stayed up-to-date with the latest frontend technologies and industry trends, constantly expanding knowledge and skills.
-  - Utilized Git for version control, ensuring code integrity and seamless collaboration with other team members.
-- **Tecnsol Trainings** - Internship Frontend Developer *(OnSite - Faisalabad)*  
-  - Worked on a team to develop and maintain HTML, CSS, and JavaScript projects.
-  - Implemented new features and resolved bugs to improve overall user experience.
-  - Assisted in optimizing website performance and implementing UI/UX enhancements.
-  - Implemented responsive design principles and ensured cross-browser compatibility to deliver a consistent experience across devices and browsers.
-  - Utilized Git for version control, ensuring code integrity and seamless collaboration with other team members.
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-black?style=flat-square)
 
-## 📫 Let's Connect
+**Infrastructure**
 
-I'm always looking to collaborate on interesting projects or discuss web development and design. Feel free to reach out to me via the following channels:
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/nuzair-ib/)
-- [Twitter](https://twitter.com/Nuzair_)
-- [Portfolio](https://nuzair.vercel.app)
+**Onchain / Web3**
 
-Looking forward to connecting with you and exploring the exciting world of ReactJS together! 😄
+![Wagmi](https://img.shields.io/badge/Wagmi-black?style=flat-square)
+![Viem](https://img.shields.io/badge/Viem-black?style=flat-square)
+![Privy](https://img.shields.io/badge/Privy-black?style=flat-square)
+
+---
+
+## Things I've shipped
+
+### [Leadify](https://leadify-lp.vercel.app) — Lead Generation CRM
+Full SaaS CRM with a drag-drop pipeline builder (dnd-kit + @xyflow/react), data-heavy views via TanStack Table, row-level security with Supabase RLS, and Stripe subscription billing.
+
+`Next.js` `Supabase` `dnd-kit` `ReactFlow` `TanStack Table` `Stripe`
+
+---
+
+### [pox-app](https://pox-app-flame.vercel.app) — EdTech Career Platform
+Multi-role EdTech platform with Google Gemini AI integration, personality assessments, and full EN/ZH i18n. Three distinct user role flows, built on Supabase + Prisma.
+
+`Next.js` `Supabase` `Prisma` `Gemini AI` `i18n` `TypeScript`
+
+---
+
+### [solblaze](https://solblaze-gamma.vercel.app) / [reprice](https://reprice-five.vercel.app) — Web3 Dashboards
+Solana DeFi dashboard with Rive animations and glassmorphism UI. Crypto trading dashboard with Wagmi/Viem/Privy wallet auth and draggable widget layout.
+
+`Wagmi` `Viem` `Privy` `Rive` `TanStack Table` `Solana`
+
+---
+
+### [Brevity AI](https://brevity-lilac.vercel.app) — Document Analysis Tool
+AI-native document analysis with streaming responses via @ai-sdk/deepseek and Google AI. PDF upload, real-time output, Recharts visualisation.
+
+`Next.js` `AI SDK` `DeepSeek` `PDF Processing` `Recharts`
+
+---
+
+## Experience
+
+**Design Engineer** — V21 Studio, UK *(Sep 2025 – Feb 2026)*
+Shipped 6+ production products in 5 months across SaaS, Web3, AI, and marketing verticals on a unified Next.js 15 / React 19 stack.
+
+**Web Development Team Lead** — Zylo Solutions, Lahore *(Apr 2025 – Present)*
+Lead a cross-functional frontend + backend team. Oversee architecture, code reviews, client delivery, and mentorship.
+
+**Frontend Developer** — Tier75, United States *(Aug 2023 – Jan 2025)*
+Maintained and optimized frontend codebases for multiple client products. Code reviews, performance refactors, and responsive UI implementation.
+
+**Frontend Developer** — X9, Dubai *(May 2023 – Aug 2023)*
+Built X9Trader's web platform frontend — high-performance trading UI with pixel-perfect responsive design.
+
+**Frontend Developer** — Orfinex, UAE *(Mar 2022 – Jul 2023)*
+Built responsive interfaces for financial web products. Improved dev workflows, coding standards, and cross-device compatibility.
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuzair-ib)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://nuzair.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Nuzair_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[email protected])
